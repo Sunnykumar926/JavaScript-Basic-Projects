@@ -31,11 +31,6 @@ A simple number guessing game built using **HTML, CSS, and JavaScript**.
 1. Clone or download the project
 2. Open `index.html` in any web browser
 3. Start guessing!
-
-## 📸 Screenshot
-
-![screenshot](./screenshot.png) <!-- Add if you have a screenshot -->
-
 ---
 
 Enjoy playing! 🎮
