@@ -22,7 +22,7 @@ A simple number guessing game built using **HTML, CSS, and JavaScript**.
 
 ## 🧾 Files
 
-- `index.html` – Game structure and layout
+- `guess.html` – Game structure and layout
 - `guess.css` – Styling for the UI
 - `guess.js` – Game logic and interactivity
 
